@@ -1,8 +1,8 @@
 const config =
 {
     type: Phaser.AUTO,
-    width: 1710,
-    height: 900,
+    width: 100vw,
+    height: 100vh,
     physics: {
         default: 'matter',
         matter: {
